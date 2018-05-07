@@ -2,13 +2,13 @@
 
 	<widget xmlns= "http://www.w3.org/ns/widgets"
 		xmlns:gap= "http://phonegap.com/ns/1.0"
-		id= "com.phonegap.app1"
+		id= "com.phonegap.app5"
 		version= "1.0.0">
 	
-		<name> app1-2018 Datos del Dispositivo </name>
+		<name> app5- Notifiacion </name>
 	
 		<description>
-		Aplicacion que muestra los Datos del Dispositivo
+		Aplicacion que manda notificaciones
 		</description>
 	
 		<author href="https://build.phonegap.com" email="cb16.vargas.gonzalez.diego@gmail.com">
